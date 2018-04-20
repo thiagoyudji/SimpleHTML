@@ -1,2 +1,2 @@
 # SimpleHTML
-HTML Simples
+HTML Simples, para estudos.
