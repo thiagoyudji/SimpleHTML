@@ -1,0 +1,15 @@
+var investidor: {
+nome:nome,
+  cpf:cpf,
+ email:email,
+ var endereco: {
+   rua: rua,
+  complemento:complemento,
+  bairro:bairro,
+  cep:cep,
+  cidade:cidade,
+  estado:estado,
+  telefone:telefone,
+  numero:numero
+}
+}
